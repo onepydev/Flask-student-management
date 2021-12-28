@@ -1,0 +1,1 @@
+insert into students ( firstname,lastname, email, mobile) values (“John”,”Jones”,”dummyemail@dummyemail.com”,”11111111
